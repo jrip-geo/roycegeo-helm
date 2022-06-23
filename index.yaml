@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rocketchat:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-23T21:59:20.741174401Z"
+    description: A Helm chart for Kubernetes
+    digest: 217d53ceef46d82d3578255efc0c8475e5609b8482752a862d3bf7d8d8c250bc
+    name: rocketchat
+    type: application
+    urls:
+    - https://github.com/jshirleygeo/roycegeo-helm.git/rocketchat-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-23T21:59:20.740434395Z"
