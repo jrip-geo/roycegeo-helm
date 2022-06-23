@@ -1,0 +1,8 @@
+mkdir repo_path/helm-chart-directory
+helm create helm-chart-directory/helm-chart-to-create
+cd helm-chart-directory
+helm package *
+helm repo index --url https://githuburl/helm-chart-directory/ .
+#this creates index.yaml
+git add . && git commit -m "commit chart" && git push
+
