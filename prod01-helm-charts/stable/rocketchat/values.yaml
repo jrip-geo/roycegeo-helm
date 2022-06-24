@@ -64,7 +64,7 @@ externalMongodbOplogUrl:  # mongodb://user:password@localhost:27017/local?replic
 mongodb:
   ## Enable or disable MongoDB dependency completely.
   enabled: true
-
+  bScriptsConfigMap: mongo-init  
   # mongodbRootPassword:
 
   mongodbUsername: rocketchat
