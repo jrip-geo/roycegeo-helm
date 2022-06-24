@@ -3,12 +3,12 @@ entries:
   rocketchat:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-23T22:46:00.516928125Z"
+    created: "2022-06-24T18:21:15.138180329Z"
     description: A Helm chart for Kubernetes
     digest: 4a6933a66aee42ab03ba12ad67e3dbb20e7c58b1e345a3e93aaf96b62b144f7d
     name: rocketchat
     type: application
     urls:
-    - https://github.com/jshirleygeo/roycegeo-helm.git/prod01-helm-charts/rocketchat-0.1.0.tgz
+    - https://githuburl/helm-chart-directory/rocketchat-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-23T22:46:00.516076241Z"
+generated: "2022-06-24T18:21:15.13723969Z"
